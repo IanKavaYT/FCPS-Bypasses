@@ -1,3 +1,5 @@
+# We will never stop making these. You cannot stop us. We will make more and more and more. 
+
 # FCPS-Bypasses
 I bypass FCPS for fun. I myself do not use any of these files and games, and these are only for educational purposes only. I do not take any fault if you get in trouble because of this.
 # 1v1.LOL
