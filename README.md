@@ -10,4 +10,4 @@ I bypass FCPS for fun. I myself do not use any of these files and games, and the
  1. Press on this link:https://www.avg.com/download-thank-you.php?product=SBR-NOUAC-CID&tag=9503
  2. This is a automatic download link, so just open the file and follow instructions.
  3. When the browser is open, seach up "google extention store" and search up "flash vpn". Press add to chrome, as it will actully add itsself to AVG. 
- 4. Press on the puzzle peice in the top right corner, and select Flash VPN. Select a countey, I recommend  
+ 4. Press on the puzzle peice in the top right corner, and select Flash VPN. Select a countey, I recommend connecting to canada.
